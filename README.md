@@ -1,7 +1,9 @@
 # apparent_style
 Marco A. Moreno-Armendáriz 1 , Hiram Calvo 1,* , José Faustinos 1 and Carlos A. Duchanoy 2
+
 1 Computational Cognitive Sciences Laboratory, Center for Computing Research, Instituto Politécnico Nacional,
 Mexico City 07738, Mexico; mam_armendariz@cic.ipn.mx (M.A.M.-A.); jfaustinos19@gmail.com (J.F.)
+
 2 Gus Chat, Av. Paseo de la Reforma 26-Piso 19, Mexico City 06600, Mexico; carlos.duchanoy@gus.chat (C.A.D.)
 * Correspondence: hcalvo@cic.ipn.mx (H.C.)
 
